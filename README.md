@@ -77,7 +77,7 @@ print(me.say_hi())
 ---
 
 ### 🎵 Currently Vibing To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/intl-fr/)
 
 ---
 
