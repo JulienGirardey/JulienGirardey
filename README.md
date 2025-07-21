@@ -70,9 +70,9 @@ print(me.say_hi())
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/julien-girardey-820697252/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-girardey-820697252/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
-[![Email](https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSBmXMJDnwVgWZgBsZclwxhnfKbCPZBWpSXfxCLhHXhdcnSVSwFzFbBZbqwwNXrjrQWBvdfq)]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliengirardey2@gmail.com)
 
 ---
 
