@@ -76,11 +76,6 @@ print(me.say_hi())
 
 ---
 
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/intl-fr/)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
